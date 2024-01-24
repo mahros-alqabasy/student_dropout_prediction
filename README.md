@@ -10,7 +10,7 @@ This project addresses the critical challenge of student dropouts in education, 
 ## Methodology
 - **Data Handling**: Collection, preprocessing, and exploratory analysis of a comprehensive dataset.
 - **Key Features**: Academic records, attendance, internet accessibility, social activity levels.
-- **Machine Learning Models**: RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier.
+- **Machine Learning Models**: RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier ,  GridSearchCV , RandomizedSearchcv
 - **Techniques Used**: SMOTE for balancing dataset, feature selection for impactful prediction.
 
 ## Results
